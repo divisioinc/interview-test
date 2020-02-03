@@ -1,0 +1,60 @@
+<App>
+
+  <Header>
+    <Logo/>
+    <MenuPrimary/>
+    <MenuTop/>
+    <SearchBar/>
+  </Header>
+
+  <Page>
+    <PageHeader>
+      <Breadcrumb/>
+      <PageTitle/>
+      <UsefulActions/>
+      <MenuSteps/>
+    </PageHeader>
+
+    <FilterByLocation>
+      <Title/>
+      <Description/>
+      <Form>
+        <SelectStateOrTerritory/>
+        <ShowAustraliaResults/>
+        <SearchLocation/>
+      </Form>
+    </FilterByLocation>
+
+    <Post>
+      <PostHeader/>
+      <PostNav/>
+      <PostContent>
+        <PostContentHeader/>
+        <PostContentWidgets/>
+        <PostContentNav/>
+        <PostContentTabs/>
+        <PostContentSection/>
+        <PostContentProgressList/>
+        <PostContentObservation/>
+        <PostContentSection/>
+        <PostContentSection/>
+        <PostContentTable/>
+        <PostContentObservation/>
+        <PostContentFooter/>
+      </PostContent>
+    </Post>
+
+    <PageFooter />
+  </Page>
+
+  <Footer>
+    <Section>
+      <FooterWidget/>
+      <FooterWidget/>
+      <FooterWidget/>
+      <FooterWidget/>
+    </Section>
+    <Copyright/>
+  </Footer>
+
+</App>

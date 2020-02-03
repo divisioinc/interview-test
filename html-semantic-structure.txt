@@ -1,0 +1,66 @@
+main
+
+  header
+    h1 > a > img
+    nav > ul > li > a
+    nav > ul > li > a
+    form > input + button
+  /header
+
+  section
+
+    header
+      nav > ul > li > a
+      h2
+      nav > ul > li > a
+      nav > ul > li > a
+    /header
+
+    aside
+      h4 + p
+      form
+        label + span + select
+        input + label
+        label + input + button
+      /form
+    /aside
+
+    article
+      header > h3 + p
+      nav > ul > li > a
+      section
+        header > h4 + p
+        div > h4 + p
+        div > h4 + p
+        nav > a + p
+        nav > ul > li > a
+        h4 + p > a
+        ul > li > h5 + (div.progress > span + p) + p
+        div > p
+        h4 + p > a
+        h4 + p
+        table
+          thead > tr > th > p
+          tbody > tr > td > p
+          tfoot > tr > td > p
+        /table
+        div > p
+        footer > nav > a + p + button
+      /section
+    /article
+
+    footer > p > a
+
+  /section
+
+  footer
+    section
+      nav > h3 + ul > li > a
+      nav > h3 + ul > li > a
+      nav > h3 + ul > li > a
+      nav > h3 + ul > li > a
+    /section
+    section > p
+  /footer
+
+/main
