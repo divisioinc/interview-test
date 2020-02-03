@@ -1,0 +1,21 @@
+{
+  "filterOptions": {
+    "locations": [
+      {
+        "stateOrTerritory": "NSW",
+        "name": "Darlinghurst"
+      }
+    ],
+    "specialties": [
+      "Cardio-Thoracic Surgery",
+      "Dermatology",
+      "GP",
+      "Immunology and Allergy",
+      "Plastic and Reconstrutive Surgery",
+      "Obstetrics and Gynaecology",
+      "Ophtamology",
+      "Orthopaedic Surgery",
+      "Urological Surgery"
+    ]
+  }
+}

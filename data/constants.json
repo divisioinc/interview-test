@@ -1,0 +1,175 @@
+{
+  "menu-top": [
+    {
+      "label": "About us",
+      "url": "/about-us"
+    },
+    {
+      "label": "Ministers",
+      "url": "/ministers"
+    },
+    {
+      "label": "Media Center",
+      "url": "/media-center"
+    },
+    {
+      "label": "News",
+      "url": "/news"
+    },
+    {
+      "label": "Contact us",
+      "url": "/contact-us"
+    }
+  ],
+  "menu-primary": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Health topics",
+      "url": "/health-topics"
+    },
+    {
+      "label": "Initiatives and programs",
+      "url": "/initiatives-and-programs"
+    },
+    {
+      "label": "Resources",
+      "url": "/resources"
+    }
+  ],
+  "menu-steps": [
+    "Keyword",
+    "Speciality",
+    "Location",
+    "MBS number",
+    "Overview",
+    "Options",
+    "Results"
+  ],
+  "menu-useful-actions": [
+    {
+      "label": "Listen",
+      "icon": "./listen-icon.png"
+    },
+    {
+      "label": "Print",
+      "icon": "./print-icon.png"
+    },
+    {
+      "label": "Share",
+      "icon": "./share-icon.png"
+    }
+  ],
+  "footerMenus": [
+    {
+      "title": "About Health",
+      "menus": [
+        {
+          "label": "About us",
+          "url": "/about-us"
+        },
+        {
+          "label": "Ministers",
+          "url": "/ministers"
+        },
+        {
+          "label": "Careers",
+          "url": "/careers"
+        },
+        {
+          "label": "Corporate reporting",
+          "url": "/corporate-reporting"
+        },
+        {
+          "label": "Portfolio agencies",
+          "url": "/portifolio-agencies"
+        },
+        {
+          "label": "Contact us",
+          "url": "/contact-us"
+        }
+      ]
+    },
+    {
+      "title": "Using our websites",
+      "menus": [
+        {
+          "label": "About our website",
+          "url": "/about-our-websites"
+        },
+        {
+          "label": "Acessibility",
+          "url": "/acessibility"
+        },
+        {
+          "label": "Copyright",
+          "url": "/copyright"
+        },
+        {
+          "label": "Disclaimer",
+          "url": "/disclaimer"
+        },
+        {
+          "label": "Privacy",
+          "url": "/privacy"
+        },
+        {
+          "label": "Social media",
+          "url": "/social-media"
+        },
+        {
+          "label": "RSS feed",
+          "url": "/rss-feed"
+        }
+      ]
+    },
+    {
+      "title": "Browse health.gov.au",
+      "menus": [
+        {
+          "label": "General information",
+          "url": "/general-information"
+        },
+        {
+          "label": "Professionals and providers",
+          "url": "/professionals-and-providers"
+        },
+        {
+          "label": "Industry",
+          "url": "/industry"
+        }
+      ]
+    },
+    {
+      "title": "Follow us",
+      "menus": [
+        {
+          "label": "Media center",
+          "url": "/media-center"
+        },
+        {
+          "label": "News",
+          "url": "/news"
+        },
+        {
+          "label": "Facebook",
+          "url": "http://facebook.com"
+        },
+        {
+          "label": "Linkedin",
+          "url": "http://linkedin.com"
+        },
+        {
+          "label": "Twitter",
+          "url": "http://twitter.com"
+        },
+        {
+          "label": "Youtube",
+          "url": "http://youtube.com"
+        }
+      ]
+    }
+  ]
+}

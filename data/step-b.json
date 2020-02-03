@@ -1,0 +1,48 @@
+{
+  "medicalCosts": {
+    "description": "Taking a small sample of skin (biopsy). A pathologist will examine the sample to diagnose a condition.",
+    "mbs": 30071,
+    "medicalSpecialty": {
+      "title": "Typical median amount patients pay",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum at perferendis debitis nihil veniam alias eos harum quam fuga rerum maxime, iusto sit deleniti, culpa totam ad rem saepe sed!",
+      "specialtyTypes": [
+        {
+          "name": "General Surgery",
+          "patientsPaidNothing": 57,
+          "typicalAmountPaid": 41,
+          "financialYear": "18/19"
+        },
+        {
+          "name": "General Practitioner",
+          "patientsPaidNothing": 67,
+          "typicalAmountPaid": 67,
+          "financialYear": "18/19"
+        },
+        {
+          "name": "Dermatology",
+          "patientsPaidNothing": 8,
+          "typicalAmountPaid": 85,
+          "financialYear": "18/19"
+        },
+        {
+          "name": "Plastic & Reconstructive Surgery",
+          "patientsPaidNothing": 14,
+          "typicalAmountPaid": 94,
+          "financialYear": "18/19"
+        },
+        {
+          "name": "Obstetrics & Gynaecology",
+          "patientsPaidNothing": 55,
+          "typicalAmountPaid": 125,
+          "financialYear": "18/19"
+        },
+        {
+          "name": "Ophtamology",
+          "patientsPaidNothing": 13,
+          "typicalAmountPaid": 131,
+          "financialYear": "18/19"
+        }
+      ]
+    }
+  }
+}

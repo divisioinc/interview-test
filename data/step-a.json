@@ -1,0 +1,37 @@
+{
+  "search": {
+    "location": {
+      "stateOrTerritory": "NSW",
+      "name": "Darlinghurst"
+    },
+    "keywords": [
+      "skin",
+      "biopsy"
+    ],
+    "specialties": [],
+    "medicalCosts": [
+      {
+        "description": "Taking a small sample of skin (biopsy). A pathologist will examine the sample to diagnose a condition.",
+        "mbs": 30071,
+        "specialtyTypes": [
+          "Dermatology",
+          "GP",
+          "Plastic and Reconstrutive Surgery",
+          "Obstetrics and Gynaecology",
+          "Ophtamology"
+        ]
+      },
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing edit. Praesent placerat arcu ut erat pretium covallis. Praesent sagittis feugiant.",
+        "mbs": 98080,
+        "specialtyTypes": [
+          "Dermatology",
+          "GP",
+          "Plastic and Reconstrutive Surgery",
+          "Obstetrics and Gynaecology",
+          "Ophtamology"
+        ]
+      }
+    ]
+  }
+}
