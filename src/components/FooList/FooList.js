@@ -30,7 +30,11 @@ const FooList = ({ fooList, createFoo, toggleCompleteFoo }) => {
             {fooList.map((item) => (
               <li key={item.id} className="list-group-item">
                 {item.id} - {item.colour} - {item.speed} - {item.size}
-                <button onClick={() => toggleCompleteFoo(item.id)}>Mark as complete</button>
+                {!item.completedAt && (
+                  <button onClick={() => toggleCompleteFoo(item.id)}>
+                    Mark as complete
+                  </button>
+                )}
               </li>
             ))}
           </ul>
